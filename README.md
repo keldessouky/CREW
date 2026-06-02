@@ -1,6 +1,6 @@
-# Repo Skill Readiness
+# CREW: Repository Skill Readiness
 
-This repository contains a repeatable process for evaluating repository support readiness, identifying required skills, and building redundancy across engineering teams.
+This repository contains the CREW process for evaluating repository support readiness, identifying required skills, and building redundancy across engineering teams.
 
 ## Included artifacts
 - `SKILL.md` — workflow for generating repeatable repo skill readiness reports
